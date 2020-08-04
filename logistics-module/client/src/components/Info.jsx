@@ -15,9 +15,9 @@ const Info = function(props) {
   return (
     <div className='info'>
       <img className='image' src='https://icons-987654321.s3-us-west-1.amazonaws.com/stonefruitlogo.jpg'></img>
-      <div className='name'>StoneFruitStore</div>
+      <div className='name'>AdAPPting Store</div>
       <div className='editorsChoice'> <img src={editorsChoiceLogo}></img></div>
-      <div className='author'>Cranjis McBasketball</div>
+      <div className='author'>Anthony Ha</div>
       <div className='category'> Productivity</div>
 
       <div className='ads'>      <img className='everyone' src='https://icons-987654321.s3-us-west-1.amazonaws.com/everyone-rating.png'></img><div className='contains'>Contains Ads  ·  Offers in-app purchases</div><img className='caution' src='https://w1.pngwave.com/png/693/31/638/warning-icon-red-triangle-sign-line-signage-traffic-sign-symbol-png-clip-art.png'></img>You don't have any devices.
